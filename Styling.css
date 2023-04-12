@@ -1,7 +1,5 @@
 body {
   background-color: rgb(107, 94, 120);
-  
-
 }
 h3 {
   text-align: center;
@@ -40,4 +38,10 @@ h1 {
 h6 {
   color: whitesmoke;
   font-family: 'Times New Roman', Times, serif;
+}
+h5 {
+  color: white;
+}
+p{
+  color: white;
 }
