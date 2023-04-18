@@ -35,5 +35,9 @@ h5 {
   color: white;
 }
 p{
-  color: white;
+  color: black;
+}
+
+.card-text {
+  color: black;
 }
